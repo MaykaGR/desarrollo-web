@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(180deg, rgb(104, 103, 103), beige);
+    color: black;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+}
+figure{
+    align-items: center;
+    text-align: center;
+}
